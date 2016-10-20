@@ -11,10 +11,10 @@ $ dfu-util -l
 
 2. Follow the instructions on Duo: Firmware Deployment Guide (link: https://github.com/redbear/Duo/blob/master/docs/firmware_deployment_guide.md#duo-firmware-deployment-guide), 
 
-*Update System Firmware
+* Update System Firmware
 
-*Update Factory Reset Application (FAC)
+* Update Factory Reset Application (FAC)
 
-*Update Wi-Fi Firmware
+* Update Wi-Fi Firmware
 
 3. Once it's all done, unplug and plug in the USB cable of Redbear to notice the difference. 
